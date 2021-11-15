@@ -23,7 +23,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/fisherwoman.jpg
+      url: /images/about.jpg
       altText: Hero section image
     styles:
       self:
