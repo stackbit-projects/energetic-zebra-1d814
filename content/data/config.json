@@ -8,7 +8,8 @@
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
-            "altText": "This is your logo"
+            "altText": "This is your logo",
+            "url": "/images/logo.svg"
         },
         "primaryLinks": [
             {
