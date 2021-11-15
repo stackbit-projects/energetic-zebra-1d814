@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: This is your hero title
+    title: We do fishing differently
     subtitle: Fresh. Better. Faster
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
