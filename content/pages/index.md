@@ -100,6 +100,41 @@ sections:
           - mb-12
       actions:
         justifyContent: center
+  - elementId: ''
+    variant: variant-b
+    colors: colors-a
+    title: Latest posts
+    subtitle: ''
+    actions:
+      - type: Button
+        label: View all
+        url: /
+        style: primary
+    showRecent: false
+    recentCount: 6
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+        margin:
+          - mt-0
+          - mb-12
+    type: PostFeedSection
   - type: ContactSection
     elementId: contact-form
     colors: colors-f
