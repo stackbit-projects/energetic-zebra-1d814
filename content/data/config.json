@@ -8,7 +8,7 @@
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
-            "altText": "Sakanaya logo"
+            "altText": "This is you logo"
         },
         "primaryLinks": [
             {
