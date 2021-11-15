@@ -24,7 +24,7 @@
     "headlines": "#000000",
     "primary": "#000000",
     "secondary": "#ffffff",
-    "neutral": "#000000",
+    "neutral": "#ffffff",
     "complementary": "#e9f6ff",
     "complementaryAlt": "#fffde2",
     "buttonPrimary": {
